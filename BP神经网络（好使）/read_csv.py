@@ -3,7 +3,6 @@ import csv
 import random
 import numpy
 import normal
-import knn_ex2
 import draw
 
 #从文件中读取数据
