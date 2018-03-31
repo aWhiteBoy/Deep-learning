@@ -4,3 +4,5 @@ Some code when learning deep learning.
 upload knn.
 
 upload bpnn.
+
+upload rnn.
